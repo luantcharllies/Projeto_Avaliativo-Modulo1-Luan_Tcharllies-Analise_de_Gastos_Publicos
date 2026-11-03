@@ -17,4 +17,5 @@ Data/
 *.csv 
 tempCodeRunnerFile.py
 *.pyc
-__pycache__/  
+__pycache__/ 
+config.py 
