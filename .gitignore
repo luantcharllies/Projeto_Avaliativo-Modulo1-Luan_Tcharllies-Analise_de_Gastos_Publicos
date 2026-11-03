@@ -14,4 +14,7 @@ Thumbs.db
 .zip
 zip
 Data/
-*.csv   
+*.csv 
+tempCodeRunnerFile.py
+*.pyc
+__pycache__/  
