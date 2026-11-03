@@ -1,0 +1,17 @@
+.env
+venv/
+env/
+ENV/
+.cpython-315
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.DS_Store
+Thumbs.db
+*.zip
+.zip
+zip
+Data/
+*.csv   
